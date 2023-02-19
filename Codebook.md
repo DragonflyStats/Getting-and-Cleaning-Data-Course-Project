@@ -43,7 +43,6 @@ For each record in the dataset it is provided:
 # Variables used:
 Variable                  |Description
 --------------------------|--------------------------
-
 1|subject
 2|activity
 3|TimeBodyAccelerometer.mean...X_mean
