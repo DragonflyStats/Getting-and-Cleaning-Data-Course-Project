@@ -1,4 +1,7 @@
-library(dplyr)
+###### R Packages
+library(magrittr)
+library(tidyverse)
+library(stringr)
 
 ###### Data
 ## Downloading all Data Sets
